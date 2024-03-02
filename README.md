@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm passionate about architecting scalable and rel
     <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
     <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
-    <img src="https://www.vectorlogo.zone/logos/talend/talend-ar21.svg" alt="talend-ar21" width="85" height="75"/> 
+    <img src="https://www.vectorlogo.zone/logos/talend/talend-icon.svg" alt="talend-icon" width="65" height="55"/> 
 </p>
 
 - 📖 Here's a brief overview of what you'll find in my repositories:
@@ -55,6 +55,7 @@ Welcome to my GitHub profile! I'm passionate about architecting scalable and rel
 
 ### 📫 Get in Touch:
 
+- Resume: https://d1rd9q6svtck08.cloudfront.net
 - Credly: https://www.credly.com/users/felix-dagnon
 - LinkedIn: https://www.linkedin.com/in/f%C3%A9lixdagnon
 
