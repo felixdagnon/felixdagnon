@@ -44,13 +44,3 @@ Feel free to explore my repositories and reach out if you have any questions or 
       <img src="https://www.vectorlogo.zone/logos/talend/talend-ar21.svg" alt="talend-ar21" width="85" height="75"/> 
 
 </p>
-
-
-
-![AWS Logo](images/aws-logo.png)
-![DevOps Logo](images/devops-logo.png)
-![Docker Logo](images/docker-logo.png)
-![Kubernetes Logo](images/kubernetes-logo.png)
-![Python Logo](images/python-logo.png)
-![Talend Logo](images/talend-logo.png)
-
