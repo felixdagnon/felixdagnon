@@ -29,6 +29,7 @@ Feel free to explore my repositories and reach out if you have any questions or 
 
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="amazon_aws" width="65" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraformio" width="65" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="55" height="55"/>
