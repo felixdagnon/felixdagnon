@@ -10,9 +10,6 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
-
-## Data Engineer AWS Solutions Architect | DevOps Engineer | Python Developer
-
 - 🏦 I'm Data Engineer working for a Digital Company Service in France 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📚 I'm certified AWS Solutions Architect Professional, AWS Advanced Networking Speciality, AWS Security
