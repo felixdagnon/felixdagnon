@@ -15,8 +15,9 @@
 - 📚 I'm certified AWS Solutions Architect Professional, AWS Advanced Networking Speciality, AWS Security
 
 Welcome to my GitHub profile! I'm passionate about architecting scalable and reliable solutions on AWS, leveraging DevOps practices and modern technologies like Docker, Kubernetes, Python, and Talend.
+
 - 🧑‍💻 Tech I work on :
-- 
+  
 <p align="center">
     <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="amazon_aws" width="65" height="55"/> 
     <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraformio" width="65" height="55"/> 
@@ -33,6 +34,7 @@ Welcome to my GitHub profile! I'm passionate about architecting scalable and rel
     <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
     <img src="https://www.vectorlogo.zone/logos/talend/talend-icon.svg" alt="talend-icon" width="65" height="55"/> 
 </p>
+
 
 - 📖 Here's a brief overview of what you'll find in my repositories:
 
