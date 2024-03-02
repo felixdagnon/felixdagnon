@@ -45,9 +45,13 @@ Feel free to explore my repositories and reach out if you have any questions or 
 </p>
 
 
+![AWS Logo](images/aws-logo.png)
+
+<p style="color: blue; font-size: 18px;">This is a styled paragraph.</p>
+
+
 
 ![AWS Logo](images/aws-logo.png)
-![https://images.app.goo.gl/bHZThj2HfskKvLuT8](images/aws-logo.png)
 ![DevOps Logo](images/devops-logo.png)
 ![Docker Logo](images/docker-logo.png)
 ![Kubernetes Logo](images/kubernetes-logo.png)
