@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm passionate about architecting scalable and rel
 Feel free to explore my repositories and reach out if you have any questions or collaboration opportunities!
 
 <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="amazon_aws" width="65" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="amazon_aws" width="75" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="55" height="55"/>
