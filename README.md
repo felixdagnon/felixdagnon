@@ -29,8 +29,8 @@ Feel free to explore my repositories and reach out if you have any questions or 
 
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/aws/aws-icon.svg" alt="aws" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/terraform/terraform-icon.svg" alt="terraform" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
+      <img src="https://www.vectorlogo.zone/logos/terraform/terraform-icon.svg" alt="terraform" width="65" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
@@ -41,6 +41,7 @@ Feel free to explore my repositories and reach out if you have any questions or 
       <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/talend/talend-icon.svg" alt="talend" width="55" height="55"/> 
 </p>
 
 
