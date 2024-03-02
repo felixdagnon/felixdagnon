@@ -41,7 +41,7 @@ Feel free to explore my repositories and reach out if you have any questions or 
       <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/talend/talend-icon.svg" alt="talend" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/talend/talend-ar21.svg" alt="talend-ar21" width="55" height="55"/> 
 </p>
 
 
