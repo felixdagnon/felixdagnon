@@ -55,7 +55,7 @@ Welcome to my GitHub profile! I'm passionate about architecting scalable and rel
 
 ### 📫 Get in Touch:
 
-- Twitter: [Your Credly Handle](https://www.credly.com/users/felix-dagnon)
+- Credly: [Your Credly Handle](https://www.credly.com/users/felix-dagnon)
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/f%C3%A9lixdagnon/)
 
 
