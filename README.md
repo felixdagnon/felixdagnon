@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm passionate about architecting scalable and rel
 - **Containerization**: Using Docker and Kubernetes for container orchestration and management.
 - **Python Applications**: Developing automation scripts, tools, and applications in Python.
 - **Data Integration**: Implementing ETL processes and data pipelines using Talend.
-
+  
 ### 🚀 Skills:
 
 - **AWS**: EC2, S3, Lambda, RDS, ECS, CloudFormation, etc.
