@@ -37,17 +37,7 @@ Welcome to my GitHub profile! I'm passionate about architecting scalable and rel
     <img src="https://www.vectorlogo.zone/logos/talend/talend-ar21.svg" alt="talend-ar21" width="85" height="75"/> 
 </p>
 
-
-- 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi)
-- 💻 I use daily: **.js**, **.java**, **.py**,  **.sql**
-- 📖 I am currently reading **Designing Data Intensive Application** by Martin Kleppmann
-- 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), silicon valley & startups
-- 👯 We can connect to play some games of Chess ♟
-- ⚡ Fun fact: Je connais un peu le français
-- 🧑‍💻 Tech I work on :
-
-
- Here's a brief overview of what you'll find in my repositories:
+- 📖 Here's a brief overview of what you'll find in my repositories:
 
 
 ### Projects Highlights:
