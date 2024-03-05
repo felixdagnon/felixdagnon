@@ -45,7 +45,7 @@ Welcome to my GitHub profile! I'm passionate about architecting scalable and rel
 - **DevOps Pipelines**: Building CI/CD pipelines for automated testing, deployment, and monitoring.
 - **Containerization**: Using Docker and Kubernetes for container orchestration and management.
 - **Python Applications**: Developing automation scripts, tools, and applications in Python.
-- **Security**: Design, implement and troubleshoot various security models in AWS coud:
+- **Security**: Design, implement and troubleshoot various security models in AWS cloud:
   security policies and controls across different levels of the networking stack to protect your resources from external or internal threats.
 - **Networking **: Design and implement AWS and hybrid IT network architectures at scale and maintaining network architecture for the breadth of AWS services.
 - **Data Integration**: Implementing ETL processes and data pipelines using Talend.
