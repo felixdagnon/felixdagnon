@@ -57,7 +57,7 @@ Welcome to my GitHub profile! I'm passionate about architecting scalable and rel
 
 ### 📫 Get in Touch:
 
-- Resume: https://d17rheltqs6gnp.cloudfront.net
+- Resume: https://d3klzvcsgx4422.cloudfront.net
 - Credly: https://www.credly.com/users/felix-dagnon
 - LinkedIn: www.linkedin.com/in/félixdagnon
 
